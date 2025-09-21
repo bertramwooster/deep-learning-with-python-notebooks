@@ -54,7 +54,7 @@ The next time Chollet updates his repository, the process to sync your `master` 
 That's it\! Doing this regularly (especially before creating a new feature branch) will prevent the large conflicts you saw before.
 To ensure that all new commits go to your new branch (e.g., "my-notebook-experiments") and not to the master branch when you reopen your repo:
 
-### How to Check and Switch Branches
+### \#\# 4.How to Check and Switch Branches
 
 - When you open your repository, check which branch is currently active by running:
   ```
@@ -68,7 +68,7 @@ To ensure that all new commits go to your new branch (e.g., "my-notebook-experim
   ```
   Replace "my-notebook-experiments" with your actual branch name.
 
-### Best Practice
+### \#\# 5. Best Practice
 
 - Always switch to your working branch before making changes or committing.
 - You can configure your Git environment or editor (like VS Code) to show the current branch prominently to avoid confusion.
@@ -78,7 +78,7 @@ To ensure that all new commits go to your new branch (e.g., "my-notebook-experim
   ```
   This shows the current branch and staged changes.
 
-### Reminder
+### \#\# 6. Reminder
 
 - Your master branch should remain clean, tracking upstream only.
 - Work, commit, and experiment on your feature or work branch.

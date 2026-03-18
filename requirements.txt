@@ -1,0 +1,10 @@
+keras
+keras-hub
+keras-tuner
+tensorflow
+numpy
+scipy
+matplotlib
+kagglehub
+regex
+ipykernel

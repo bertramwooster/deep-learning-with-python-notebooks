@@ -27,3 +27,20 @@ Thumbs.db
 # VSCode (keep settings.json for shared interpreter config)
 .vscode/*
 !.vscode/settings.json
+
+# Keras 3 saved models & Diffusion weights (Ch 7, 8, 9, 11, 17)
+*.keras
+*.weights.h5
+*.h5
+
+# Local dataset splits copied into workspace (Ch 8, 14)
+train/
+dogs_vs_cats_small/
+aclImdb*/
+glove*.txt
+
+# Logs & KerasTuner trial folders (Ch 7, 18)
+logs/
+tensorboard*/
+untitled_project/
+keras_tuner*/
